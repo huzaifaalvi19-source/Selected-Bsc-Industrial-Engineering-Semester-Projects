@@ -1,8 +1,8 @@
 # Screen Time And Sleep Quality Index Analysis On Youth 
 # **Project Overview**
 <br>
-Project Description
-<br>
+
+
 This project investigates the relationship between mobile screen time and sleep patterns among university students, with particular attention to differences between male and female participants. The study examines how daily mobile-device usage may be associated with important aspects of sleep, including sleep duration, sleep quality, and sleep disturbances.
 <br>
 The project involved collecting data over a 30-day period, during which participants recorded their daily mobile screen time across different applications along with information related to their sleep patterns. This longitudinal approach provided a dataset for examining variations in technology usage and sleep behavior over an extended period rather than relying on a single-day measurement.
