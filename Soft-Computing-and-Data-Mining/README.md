@@ -1,5 +1,5 @@
 # Smart Weather Forecasting Using Artificial Neural Networks: A Predictive System Based on Country, Date, and Time Inputs
-<br>
+
 ## **Project Overview**
 <br>
 This project explores the use of Artificial Neural Networks (ANN) for weather prediction by learning complex relationships between geographical and time-dependent weather data. The goal is to develop a data-driven forecasting approach capable of accounting for differences between countries and changes in weather conditions over time.
